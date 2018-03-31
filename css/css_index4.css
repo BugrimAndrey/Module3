@@ -1,0 +1,9 @@
+*{
+	font-family: 'Playfair Display';
+}
+div {
+ width: 270px;
+ margin: 30px 30px;
+ border: 1px solid #e5dfdf;
+ color: black;
+}

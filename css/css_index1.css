@@ -1,0 +1,26 @@
+*{
+	font-family: 'Playfair Display';
+}
+a {
+  text-decoration: none;
+  }
+nav {
+  display: block;
+  width: 610px;
+  margin: 0 auto;
+       }
+.one ul {
+  padding: 3ex 0;
+  background: #7afaf1;
+       }
+.one a {
+  padding: 1em;
+  background: #2cdbd0;
+  border-right: 1px solid #b19891;
+  color: black;  
+  margin-left: 10px;
+}
+.one a:hover {/*background:*/color: #b19891;}
+.one li {
+  display: inline;
+ }

@@ -1,0 +1,39 @@
+*{
+	font-family: 'Playfair Display';
+}
+/*.article {
+	width: 960px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	color:#857b7b;
+	border: 1px solid #e5dfdf;
+     }
+div {
+ /*width: 960px;
+ /*margin: 0 auto;
+ /*padding: 10px 30px 10px 10px;
+ color: #857b7b;*/
+ /*}
+.left, .right {
+float: left;
+width: 430px;
+margin-right: 20px;
+}*/
+
+.article {
+	width: 960px;
+	margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    border: 1px solid #e5dfdf;
+    box-shadow: 0 3px 1px rgba(0,0,0,0.5);
+    padding: 5px;
+}
+
+.left, .right {
+    width: 430px;
+    padding: 20px;    
+}
