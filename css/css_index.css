@@ -1,13 +1,14 @@
 *{
 	font-family: 'Playfair Display';
-}
-ul,h2{
-	margin-top: 5px;
-	margin-left: 130px;
+	}
+
+ul,h2 {
+	margin-left: 50px;
 	}
 a {
     text-decoration: none;
-    color: black; 
+    color: black;
+    font-size:18px; 
    } 
 a:hover { 
     text-decoration: underline; 
